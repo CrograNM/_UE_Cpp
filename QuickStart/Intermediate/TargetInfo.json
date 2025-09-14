@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QuickStart",
+			"Path": "..\\Source\\QuickStart.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QuickStartEditor",
+			"Path": "..\\Source\\QuickStartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
