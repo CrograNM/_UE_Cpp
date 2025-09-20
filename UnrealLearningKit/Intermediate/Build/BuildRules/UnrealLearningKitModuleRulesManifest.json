@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\3학년\\3학년 2학기\\_UE_Cpp\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"D:\\3학년\\3학년 2학기\\_UE_Cpp\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+		"D:\\3학년\\3학년 2학기\\_UE_Cpp\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
