@@ -1197,3 +1197,136 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.09.20-13.25.24:463][475]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.20-13.25.24:464][475]AssetCheck: /Game/Main Validating asset
 [2025.09.20-13.25.24:515][475]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../_Grade3/3-2/_UE_Cpp/UnrealLearningKit/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.20-13.25.58:566][494]Cmd: DELETE
+[2025.09.20-13.25.58:566][494]Cmd: ACTOR DELETE
+[2025.09.20-13.25.58:574][494]LogEditorActor: Deleted Actor: PlayerStart
+[2025.09.20-13.25.58:595][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.20-13.25.58:605][494]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.09.20-13.26.03:215][765]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.09.20-13.26.03:216][765]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.09.20-13.26.03:216][765]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Main.Main:PersistentLevel.PlayerStart_0
+[2025.09.20-13.26.03:216][765]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.20-13.26.03:216][765]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Main.Main:PersistentLevel.PlayerStart_0
+[2025.09.20-13.26.03:216][765]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.20-13.26.03:778][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.09.20-13.26.03:779][796]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.09.20-13.26.03:784][796]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.09.20-13.26.03:784][796]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.09.20-13.26.03:786][796]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Main.Main:PersistentLevel.PlayerStart_1
+[2025.09.20-13.26.03:787][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.20-13.26.03:787][796]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Main.Main:PersistentLevel.PlayerStart_1
+[2025.09.20-13.26.03:787][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.20-13.26.06:348][936]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.20-13.26.07:300][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.20-13.26.07:316][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.20-13.26.07:320][987]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.20-13.26.07:320][987]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.20-13.26.07:320][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2025.09.20-13.26.07:351][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030341s)
+[2025.09.20-13.26.07:351][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.030395s)
+[2025.09.20-13.26.07:370][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.20-13.26.07:371][987]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2025.09.20-13.26.07:373][987]LogPlayLevel: PIE: World Init took: (0.001744s)
+[2025.09.20-13.26.07:374][987]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.20-13.26.07:374][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.20-13.26.07:374][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.20-13.26.07:374][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.20-13.26.07:374][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.20-13.26.07:374][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.20-13.26.07:376][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.20-13.26.07:417][987]LogAudioMixer: Display: Using Audio Hardware Device 노트북 스피커(Realtek(R) Audio)
+[2025.09.20-13.26.07:417][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.20-13.26.07:417][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.20-13.26.07:417][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.20-13.26.07:418][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.20-13.26.07:418][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.20-13.26.07:420][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.20-13.26.07:420][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.20-13.26.07:420][987]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.20-13.26.07:420][987]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2025.09.20-13.26.07:420][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.20-13.26.07:424][987]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2025.09.20-13.26.07:436][987]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.09.20-22.26.07
+[2025.09.20-13.26.09:048][987]LogWorld: Bringing up level for play took: 1.623704
+[2025.09.20-13.26.09:050][987]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.09.20-13.26.09:068][987]PIE: Server logged in
+[2025.09.20-13.26.09:070][987]PIE: Play in editor total start time 1.754 seconds.
+[2025.09.20-13.26.30:019][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-13.26.30:019][230]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2025.09.20-13.26.30:020][230]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.09.20-13.26.30:023][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-13.26.30:025][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.20-13.26.30:029][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.20-13.26.30:049][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.20-13.26.30:050][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.20-13.26.30:050][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.20-13.26.30:052][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.20-13.26.30:063][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.20-13.26.30:126][231]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.20-13.26.35:328][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.20-13.26.35:335][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-13.26.35:368][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../_Grade3/3-2/_UE_Cpp/UnrealLearningKit/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.20-13.26.35:394][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.20-13.26.35:492][532]LogSavePackage: Moving output files for package: /Game/Main
+[2025.09.20-13.26.35:492][532]LogSavePackage: Moving '../../../../../_Grade3/3-2/_UE_Cpp/UnrealLearningKit/Saved/MainFFC4E592448855010F0C24823EE80F19.tmp' to '../../../../../_Grade3/3-2/_UE_Cpp/UnrealLearningKit/Content/Main.umap'
+[2025.09.20-13.26.35:502][532]LogFileHelpers: Saving map 'Main' took 0.135
+[2025.09.20-13.26.35:515][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.412 ms
+[2025.09.20-13.26.35:553][532]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-13.26.35:553][532]LogContentValidation: Enabled validators:
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-13.26.35:553][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-13.26.35:553][532]AssetCheck: /Game/Main Validating asset
+[2025.09.20-13.26.47:393][861]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.20-13.26.47:445][861]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.20-13.26.52:733][175]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.20-13.26.56:129][379]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.09.20-13.27.05:524][848]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.09.20-13.27.33:329][481]Running D:/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="D:/_Grade3/3-2/_UE_Cpp/UnrealLearningKit/UnrealLearningKit.uproject" -game -rocket -progress
+[2025.09.20-13.27.33:438][481]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.09.20-13.27.33:438][481]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="D:/_Grade3/3-2/_UE_Cpp/UnrealLearningKit/UnrealLearningKit.uproject" -game -rocket -progress
+[2025.09.20-13.27.33:740][481]Log file: C:\Users\ASUS\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.09.20-13.27.34:343][481]
+[2025.09.20-13.27.34:343][481]Generating VisualStudioCode project files:
+[2025.09.20-13.27.34:343][481]Discovering modules, targets and source code for project...
+[2025.09.20-13.27.34:343][481]Adding projects for all targets...
+[2025.09.20-13.27.35:551][481]Adding projects for all targets took 1.15s
+[2025.09.20-13.27.35:551][481]Adding projects for all game projects took 0.00s
+[2025.09.20-13.27.35:853][481]Adding projects for all modules took 0.35s
+[2025.09.20-13.27.36:054][481]Compiling Rules Assemblies
+[2025.09.20-13.27.36:055][481]Compiling Rules Assemblies 100%
+[2025.09.20-13.27.36:055][481]Creating Build Targets
+[2025.09.20-13.27.37:466][481]Creating Build Targets 100%
+[2025.09.20-13.27.37:466][481]Creating Build Targets took 1.43s
+[2025.09.20-13.27.37:466][481]Binding IntelliSense data...
+[2025.09.20-13.27.42:300][481]Binding IntelliSense data... 100%
+[2025.09.20-13.27.42:300][481]Binding IntelliSense data took 4.78s
+[2025.09.20-13.27.42:300][481]Writing project files...
+[2025.09.20-13.27.44:010][481]Writing project files... 100%
+[2025.09.20-13.27.44:011][481]Writing project files took 1.74s
+[2025.09.20-13.27.44:011][481]
+[2025.09.20-13.27.44:011][481]Generating QueryTargets data for editor...
+[2025.09.20-13.27.44:011][481]Compiling Rules Assemblies
+[2025.09.20-13.27.44:011][481]Compiling Rules Assemblies 100%
+[2025.09.20-13.27.44:011][481]Writing Query Target Info
+[2025.09.20-13.27.44:011][481]Writing Query Target Info 100%
+[2025.09.20-13.27.44:011][481]Generating QueryTargets data for editor took 0.03s
+[2025.09.20-13.27.44:011][481]
+[2025.09.20-13.27.44:011][481]Result: Succeeded
+[2025.09.20-13.27.44:011][481]Total execution time: 10.55 seconds
+[2025.09.20-13.27.45:935][481]LogSlate: Window 'Message' being destroyed
+[2025.09.20-13.27.45:941][481]Message dialog closed, result: Ok, title: Message, text: Project now includes sources, please close the editor and build from your IDE.
+[2025.09.20-13.27.46:697][481]LogSlate: Window 'Message' being destroyed
+[2025.09.20-13.27.46:705][481]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'MovingPlatform', however you must recompile the 'UnrealLearningKit' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2025.09.20-13.27.46:714][481]LogSlate: Window 'Add C++ Class' being destroyed
