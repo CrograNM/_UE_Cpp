@@ -23,7 +23,4 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UPROPERTY(EditAnyWhere)
-	FVector MyVector { FVector(1, 2, 3) };
-
 };
