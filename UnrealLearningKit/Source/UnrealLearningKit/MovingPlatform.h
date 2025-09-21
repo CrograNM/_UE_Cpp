@@ -26,15 +26,4 @@ public:
 	UPROPERTY(EditAnyWhere)
 	FVector MyVector { FVector(1, 2, 3) };
 
-	UPROPERTY(EditAnyWhere)
-	float MyX { 3 };
-
-	UPROPERTY(EditAnyWhere)
-	float MyY { 2 };
-
-	UPROPERTY(EditAnyWhere)
-	float MyZ { 1 };
-
-
-
 };
